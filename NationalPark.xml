@@ -4,7 +4,7 @@
 		<Name>Grand Canyon National Park</Name>
 		<Phone>928-638-7888</Phone>
 		<Phone>928-638-7496</Phone>
-		<Address>
+		<Address NearestAirport="Flagstaff Pulliam Airport">
 			<Number>20</Number>
 			<Street>South Entrance Road</Street>
 			<City>Grand Canyon</City>
