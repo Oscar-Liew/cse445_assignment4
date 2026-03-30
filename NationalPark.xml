@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<NationalPark>
+<NationalParks>
 	<NationalPark Rating="4.9">
 		<Name>Grand Canyon National Park</Name>
 		<Phone>928-638-7888</Phone>
@@ -12,7 +12,6 @@
 			<Zip>86023</Zip>
 		</Address>
 	</NationalPark>
-
 	<NationalPark Rating="4.7">
 		<Name>Joshua Tree National Park</Name>
 		<Phone>760-367-5500</Phone>
@@ -24,9 +23,9 @@
 			<Zip>92277</Zip>
 		</Address>
 	</NationalPark>
-
 	<NationalPark>
 		<Name>Yosemite National Park</Name>
+		<Phone>209-372-0200</Phone>
 		<Address NearestAirport="Fresno Yosemite International Airport">
 			<Number>9035</Number>
 			<Street>Village Drive</Street>
@@ -35,7 +34,6 @@
 			<Zip>95389</Zip>
 		</Address>
 	</NationalPark>
-
 	<NationalPark Rating="4.7">
 		<Name>Zion National Park</Name>
 		<Phone>435-772-3256</Phone>
@@ -46,11 +44,10 @@
 			<City>Springdale</City>
 			<State>UT</State>
 			<Zip>84767</Zip>
-		</NationalPark>
-
+		</Address>
+	</NationalPark>
 	<NationalPark Rating="4.6">
 		<Name>Shenandoah National Park</Name>
-		<Name>Shenandoah National Park Extra</Name>
 		<Phone>540-999-3500</Phone>
 		<Address NearestAirport="Charlottesville-Albemarle Airport">
 			<Number>3655</Number>
@@ -60,4 +57,60 @@
 			<Zip>22835</Zip>
 		</Address>
 	</NationalPark>
-</NationalPark>
+	<NationalPark>
+		<Name>Saguaro National Park</Name>
+		<Phone>520-733-5153</Phone>
+		<Address NearestAirport="Tucson International Airport">
+			<Number>3693</Number>
+			<Street>South Old Spanish Trail</Street>
+			<City>Tucson</City>
+			<State>AZ</State>
+			<Zip>85730</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark>
+		<Name>Olympic National Park</Name>
+		<Phone>360-565-3130</Phone>
+		<Phone>360-565-3131</Phone>
+		<Address NearestAirport="Seattle-Tacoma International Airport">
+			<Number>3002</Number>
+			<Street>Mount Angeles Road</Street>
+			<City>Port Angeles</City>
+			<State>WA</State>
+			<Zip>98362</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark Rating="4.6">
+		<Name>Glacier National Park</Name>
+		<Phone>406-888-7800</Phone>
+		<Address NearestAirport="Glacier Park International Airport">
+			<Number>64</Number>
+			<Street>Grinnell Drive</Street>
+			<City>West Glacier</City>
+			<State>MT</State>
+			<Zip>59936</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark>
+		<Name>Great Smoky Mountains National Park</Name>
+		<Phone>865-436-1200</Phone>
+		<Address NearestAirport="McGhee Tyson Airport">
+			<Number>107</Number>
+			<Street>Park Headquarters Road</Street>
+			<City>Gatlinburg</City>
+			<State>TN</State>
+			<Zip>37738</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark>
+		<Name>Canyonlands National Park</Name>
+		<Phone>435-719-2313</Phone>
+		<Address NearestAirport="Canyonlands Field Airport">
+			<Number>2282</Number>
+			<Street>Resource Boulevard</Street>
+			<City>Moab</City>
+			<State>UT</State>
+			<Zip>84532</Zip>
+		</Address>
+	</NationalPark>
+</NationalParks>
